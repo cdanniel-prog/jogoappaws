@@ -1,0 +1,26 @@
+{
+  "background_color": "#4f5963",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "xadrez",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "xadrez",
+  "start_url": "index.html",
+  "theme_color": "#4f5963",
+  "id": "br.dev.ufersa.sd.grupo-04.carlos.xadrez",
+  "icons": [
+    {
+      "src": "vite.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    },
+  ],
+  "screenshots": [
+    {
+      "src": "vite.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+}
